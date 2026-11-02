@@ -4,7 +4,7 @@
 
 Drop in a PDF. Twenty seconds later there's a room code on the screen, ten questions loaded, and your friends are scanning a QR code to get in. Same question, same clock, faster right answers score more.
 
-**Play it now: https://learnifyquiz.vercel.app**
+**Play it now: https://learnify-liart-five.vercel.app**
 
 ## Why it hits
 
